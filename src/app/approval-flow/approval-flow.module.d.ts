@@ -1,0 +1,41 @@
+import * as i0 from "@angular/core";
+import * as i1 from "./approval-flow.component";
+import * as i2 from "./approval-flow-node/approval-flow-node.component";
+import * as i3 from "./approval-flow-approver-details/approval-flow-approver-details.component";
+import * as i4 from "./approval-flow-add-node/approval-flow-add-node.component";
+import * as i5 from "./approval-flow-user-list/approval-flow-user-list.component";
+import * as i6 from "./approval-flow-user-details/approval-flow-user-details.component";
+import * as i7 from "./approval-flow-node/approval-flow-drop-zone.directive";
+import * as i8 from "./approval-flow-team-list/approval-flow-team-list.component";
+import * as i9 from "./approval-flow-select-type/approval-flow-select-type.component";
+import * as i10 from "./approval-flow-messages/approval-flow-messages.component";
+import * as i11 from "./approval-flow-toolbar-actions/approval-flow-toolbar-actions.component";
+import * as i12 from "@angular/common";
+import * as i13 from "@angular/forms";
+import * as i14 from "@fundamental-ngx/core/avatar";
+import * as i15 from "@fundamental-ngx/core/bar";
+import * as i16 from "@fundamental-ngx/core/button";
+import * as i17 from "@fundamental-ngx/core/icon";
+import * as i18 from "@fundamental-ngx/core/grid-list";
+import * as i19 from "@fundamental-ngx/core/dialog";
+import * as i20 from "@fundamental-ngx/platform/object-status";
+import * as i21 from "@fundamental-ngx/platform/list";
+import * as i22 from "@fundamental-ngx/platform/search-field";
+import * as i23 from "@fundamental-ngx/core/multi-input";
+import * as i24 from "@fundamental-ngx/core/message-strip";
+import * as i25 from "@fundamental-ngx/core/checkbox";
+import * as i26 from "@fundamental-ngx/i18n";
+import * as i27 from "@fundamental-ngx/core/menu";
+import * as i28 from "@fundamental-ngx/core/select";
+import * as i29 from "@fundamental-ngx/core/date-picker";
+import * as i30 from "@fundamental-ngx/core/busy-indicator";
+import * as i31 from "@fundamental-ngx/core/form";
+import * as i32 from "@angular/cdk/drag-drop";
+import * as i33 from "@fundamental-ngx/core/radio";
+import * as i34 from "@fundamental-ngx/core/illustrated-message";
+export declare class PlatformApprovalFlowModule {
+    static ɵfac: i0.ɵɵFactoryDeclaration<PlatformApprovalFlowModule, never>;
+    static ɵmod: i0.ɵɵNgModuleDeclaration<PlatformApprovalFlowModule, [typeof i1.ApprovalFlowComponent, typeof i2.ApprovalFlowNodeComponent, typeof i3.ApprovalFlowApproverDetailsComponent, typeof i4.ApprovalFlowAddNodeComponent, typeof i5.ApprovalFlowUserListComponent, typeof i6.ApprovalFlowUserDetailsComponent, typeof i7.ApprovalFlowDropZoneDirective, typeof i8.ApprovalFlowTeamListComponent, typeof i9.ApprovalFlowSelectTypeComponent, typeof i10.ApprovalFlowMessagesComponent, typeof i11.ApprovalFlowToolbarActionsComponent], [typeof i12.CommonModule, typeof i13.FormsModule, typeof i14.AvatarModule, typeof i15.BarModule, typeof i16.ButtonModule, typeof i17.IconModule, typeof i18.GridListModule, typeof i19.DialogModule, typeof i20.PlatformObjectStatusModule, typeof i21.PlatformListModule, typeof i21.StandardListItemModule, typeof i22.PlatformSearchFieldModule, typeof i23.MultiInputModule, typeof i24.MessageStripModule, typeof i25.CheckboxModule, typeof i26.I18nModule, typeof i27.MenuModule, typeof i28.SelectModule, typeof i29.DatePickerModule, typeof i30.BusyIndicatorModule, typeof i31.FormModule, typeof i32.DragDropModule, typeof i33.RadioModule, typeof i34.IllustratedMessageModule], [typeof i1.ApprovalFlowComponent]>;
+    static ɵinj: i0.ɵɵInjectorDeclaration<PlatformApprovalFlowModule>;
+}
+//# sourceMappingURL=approval-flow.module.d.ts.map

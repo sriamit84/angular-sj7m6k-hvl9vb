@@ -1,0 +1,1 @@
+{"version":3,"file":"approval-process.d.ts","sourceRoot":"","sources":["../../../../../libs/platform/src/lib/approval-flow/interfaces/approval-process.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAC/C,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAE/C,MAAM,WAAW,eAAe;IAC5B,QAAQ,EAAE,YAAY,EAAE,CAAC;IACzB,KAAK,EAAE,YAAY,EAAE,CAAC;CACzB"}

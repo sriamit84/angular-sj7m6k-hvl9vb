@@ -1,0 +1,1 @@
+{"version":3,"file":"approval-user.d.ts","sourceRoot":"","sources":["../../../../../libs/platform/src/lib/approval-flow/interfaces/approval-user.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,YAAY;IACzB,EAAE,EAAE,MAAM,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,YAAY,CAAC,EAAC,MAAM,CAAC;CACxB"}

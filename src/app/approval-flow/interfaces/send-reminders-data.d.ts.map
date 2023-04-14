@@ -1,0 +1,1 @@
+{"version":3,"file":"send-reminders-data.d.ts","sourceRoot":"","sources":["../../../../../libs/platform/src/lib/approval-flow/interfaces/send-reminders-data.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAC/C,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC;AAE/C,MAAM,WAAW,iBAAiB;IAC9B,KAAK,EAAE,YAAY,EAAE,CAAC;IACtB,IAAI,EAAE,YAAY,CAAC;CACtB"}
